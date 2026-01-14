@@ -1,0 +1,481 @@
+local Players = game:GetService("Players")
+local Player = Players.LocalPlayer
+local UserName = Player.Name
+
+if UserName == "YellowtinyBerry3609" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"DGl3doFZyl"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "BubbleToastunicorn" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"tZDmj7LvfK"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "coolwav3" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"4BhN0ood20"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Zoepeppermintturbo" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"EYOp7ND32F"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "B3rrydog" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"VbN3vfMJhk"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Al3x_p3pp3r1617" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"p6yxZHp0ll"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Benocean6827" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"mLzZT9nypk"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "LeafAstroFuzzy" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"QFRbUgsNHq"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Rubyrobot4362" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"ttNLbGalYp"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "galaxyTiny4291" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"Hcqki5KuSY"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Avarobot3229" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"MhtBTPK7q1"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "fox_Rainbow5733" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"mzLxOJWhDn"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Miar0cket2186" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"ksgy8hGyb0"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Rainocean1731" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"O5iOmHMyNB"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "peppermintRobotsnow" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"ZVOIh7IfgL"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Oliv3r_Jumb0" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"YFLQF4xZHo"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Chloeturbo265" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"Yf7syFJMbo"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Skytoast11" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"NTIjFa1AYl"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "LightOceanLeaf" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"26rmFmJu19"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Z03b3arSunny" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"CFH5oAOntW"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Pepper_blue6893" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"LtvV3sVrfj"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Ultra_silv3r6391" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"rnHNgxXZN9"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "ROCKET_bear4768" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"Imke2z5q1X"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "COSMIC_for3st7903" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"mfisb906YN"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "EllaspeedyMarble4124" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"IFiRwNcXe3"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "CatdragonGreen42" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"MicADkeYrN"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Ethan_Cat24" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"XNj4WOk8Ro"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Jackmagicjumbo" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"s6jVxo02cq"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Al3xCom3t6012" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"14IPApBzZ4"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "SPARK_pink56" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"pEUSD8p6jA"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "moon_Toast7195" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"uhNqH6DaYH"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "sportsWindfox5809" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"egqUkZ8nmW"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Zippyr0b0t19" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"UZV98ZVve9"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "Avagalaxy7455" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"KdNBMkgS75"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+end
