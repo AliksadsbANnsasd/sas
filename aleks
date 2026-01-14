@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 local UserName = Player.Name
 
-if UserName == "YellowtinyBerry3609" then
+if UserName == "tinygalaxy6011" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -16,7 +16,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "BubbleToastunicorn" then
+elseif UserName == "fuzzybearwolf" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -30,7 +30,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "coolwav3" then
+elseif UserName == "Z00mg0ldSky" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -44,7 +44,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Zoepeppermintturbo" then
+elseif UserName == "EthanbirdOtter3221" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -58,7 +58,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "B3rrydog" then
+elseif UserName == "Oliv3r_vort3x3810" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -72,7 +72,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Al3x_p3pp3r1617" then
+elseif UserName == "Drag0nhappy" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -86,7 +86,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Benocean6827" then
+elseif UserName == "Lilyaqua9101" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -100,7 +100,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "LeafAstroFuzzy" then
+elseif UserName == "Sam_SUNNY8130" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -114,7 +114,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Rubyrobot4362" then
+elseif UserName == "yellow_OTTER45" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -128,7 +128,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "galaxyTiny4291" then
+elseif UserName == "MarbleCosmicknight67" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -142,7 +142,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Avarobot3229" then
+elseif UserName == "MiaTinym3ga" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -156,7 +156,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "fox_Rainbow5733" then
+elseif UserName == "Goldpeppermintsuper" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -170,7 +170,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Miar0cket2186" then
+elseif UserName == "OLIVER_sunny68" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -184,7 +184,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Rainocean1731" then
+elseif UserName == "Avafuzzy4538" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -198,7 +198,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "peppermintRobotsnow" then
+elseif UserName == "B3nskyOtt3r7703" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -212,7 +212,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Oliv3r_Jumb0" then
+elseif UserName == "Alexpurple517535" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -226,7 +226,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Chloeturbo265" then
+elseif UserName == "EllaFrostdog8013" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -240,7 +240,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Skytoast11" then
+elseif UserName == "oceanpepperrocket678" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -254,7 +254,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "LightOceanLeaf" then
+elseif UserName == "LilyBanana9958" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -268,7 +268,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Z03b3arSunny" then
+elseif UserName == "BenBird3954" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -282,7 +282,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Pepper_blue6893" then
+elseif UserName == "Otterkoala18" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -296,7 +296,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Ultra_silv3r6391" then
+elseif UserName == "KoalaZoomWav3" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -310,7 +310,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "ROCKET_bear4768" then
+elseif UserName == "EllaCloud2131" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -324,7 +324,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "COSMIC_for3st7903" then
+elseif UserName == "c0metV0rtex3789" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -338,7 +338,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "EllaspeedyMarble4124" then
+elseif UserName == "EllaComet76" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -352,7 +352,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "CatdragonGreen42" then
+elseif UserName == "f0xSunset" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -366,7 +366,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Ethan_Cat24" then
+elseif UserName == "EthanTinyninja59" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -380,7 +380,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Jackmagicjumbo" then
+elseif UserName == "Pink_Tiny992" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -394,7 +394,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Al3xCom3t6012" then
+elseif UserName == "Ultrasn0wt0ast" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -408,7 +408,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "SPARK_pink56" then
+elseif UserName == "Sunnyrobotic5637" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -422,7 +422,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "moon_Toast7195" then
+elseif UserName == "lucky_apple511372" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -436,7 +436,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "sportsWindfox5809" then
+elseif UserName == "SamfriendlyAstro" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -450,7 +450,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Zippyr0b0t19" then
+elseif UserName == "Ella_epic2385" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -464,7 +464,7 @@ getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
 
-elseif UserName == "Avagalaxy7455" then
+elseif UserName == "sunsetRobotwave5230" then
 getgenv().Speed = 50
 getgenv().Config = {
   ['Lock Level'] = 675,
@@ -473,6 +473,20 @@ getgenv().Config = {
   ['White Screen'] = true,
   ['Second Sea'] = true,
   ['Private Code'] = {"KdNBMkgS75"}
+}
+getgenv().Sea = 1
+script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0c77fdc97b797339625442ae88021b1e.lua"))()
+
+elseif UserName == "frostchocopanda" then
+getgenv().Speed = 50
+getgenv().Config = {
+  ['Lock Level'] = 675,
+  ['Lock Stat'] = 700,
+  ['Multi PS'] = false,
+  ['White Screen'] = true,
+  ['Second Sea'] = true,
+  ['Private Code'] = {"0g59aF3fO2"}
 }
 getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
