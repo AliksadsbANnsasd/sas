@@ -318,7 +318,7 @@ getgenv().Config = {
   ['Multi PS'] = true,
   ['White Screen'] = true,
   ['Second Sea'] = true,
-  ['Private Code'] = {"Imke2z5q1X"}
+  ['Private Code'] = {"BTQegtqjkQ"}
 }
 getgenv().Sea = 1
 script_key = "RXFMjIZyNDbEyxIFQtemOpuNBgvChqLT";
